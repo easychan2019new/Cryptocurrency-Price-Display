@@ -1,4 +1,4 @@
-# Cryptocurrency-Price-Display (Backend)
+# Cryptocurrency-Price-Display (Backend)  [***front-end code***](./easychan2019new/Cryptocurrency-Price-Display-front-end)
 This project was built for Chainalysis Take Home Test.
 <br><br>
 [<h1>project demo</h1>](http://cryptocurrency-price-display.s3-website.us-east-2.amazonaws.com/)  
