@@ -3,7 +3,6 @@ This project was built for Chainalysis Take Home Test.
 <br><br>
 [<h1>project demo</h1>](http://cryptocurrency-price-display.s3-website.us-east-2.amazonaws.com/)  
 <br>
-
 <h3>Function:</h3>
 
 *1. Display the Bitcoin and Ethereum prices from two exchanges(Coinbase and Bitfinex).*
