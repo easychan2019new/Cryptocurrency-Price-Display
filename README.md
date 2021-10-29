@@ -1,4 +1,4 @@
-# Cryptocurrency-Price-Display (Backend)  [front-end code](https://github.com/easychan2019new/Cryptocurrency-Price-Display-front-end)
+# Cryptocurrency-Price-Display (Backend)
 This project was built for Chainalysis Take Home Test.
 <br><br>
 [<h1>project demo</h1>](http://cryptocurrency-price-display.s3-website.us-east-2.amazonaws.com/)  
@@ -30,5 +30,5 @@ Deploy:
  •	Angular Application will be deployed on AWS S3 Buckets
  
  [<h2>***Questionnaire***</h2>](./Questionnaire.md)
-
+ [<h2>***front-end code***</h2>](https://github.com/easychan2019new/Cryptocurrency-Price-Display-front-end)
  
